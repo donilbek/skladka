@@ -16,7 +16,6 @@
 !/src/
 !/tests/
 !/web/
-!/web/dist/
 !/build.cmd
 !/api/Program.cs
 !/api/Skladka.Api.csproj
@@ -36,4 +35,3 @@
 !/web/style.css
 !/web/page.html
 !/web/build.py
-!/web/dist/index.html
