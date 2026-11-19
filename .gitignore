@@ -1,0 +1,12 @@
+# Publish only the files in the distribution.
+*
+!/.gitignore
+!/README.md
+!/index.html
+!/Skladka.exe
+!/server/
+!/server/Skladka.Api.dll
+!/server/Skladka.Api.deps.json
+!/server/Skladka.Api.runtimeconfig.json
+!/server/Skladka.Api.staticwebassets.endpoints.json
+!/server/web.config
